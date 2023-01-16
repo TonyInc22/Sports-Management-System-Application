@@ -7,7 +7,7 @@ The PHP files for the frontend development may also be viewed.
 ## Backend
 ### Summary
 Our data model utilizes third normal form to minimize data redundancy and allow for more flexibility.
-It features 8 tables with 4 indices used for optimizing each field data type, and the expected volume of entries for each.
+It features 8 tables with 1 B-tree and 3 hash indices used for optimizing each field data type, and the expected volume of entries for each.
 We also utilized multiple table joins for many of our selection statements to view data. To ensure reliability in our system we employed three methods of try and catch error trapping - insertion, deletion, and search.
 ### Database Design
 ![Screenshot (1)](https://user-images.githubusercontent.com/78614153/212554192-86347f04-3346-48ee-9f2b-96417bf3b3fe.png)
