@@ -1,5 +1,5 @@
 # Sports-Management-System-Application
-Fullstack project of a sports management application written in PHP and MySQL with a team of 4 people.
+Fullstack group project of a sports management application written frontend in PHP and backend in MySQL with a team of 4 people.
 
 Please review the images and descriptions of the database model and application interface to get a better understanding of the project.
 The PHP files for the frontend development may also be viewed.
